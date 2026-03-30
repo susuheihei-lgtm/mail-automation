@@ -1,0 +1,24 @@
+# 認証情報（セキュリティ）
+credentials.json
+token.pickle
+
+# 仮想環境
+venv/
+
+# Pythonキャッシュ
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ローカルログ
+email_send.log
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store

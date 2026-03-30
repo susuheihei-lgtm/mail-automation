@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Flask Dev Server",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["/Users/iwasaosamutaira/Desktop/マイデジタルプロダクト/ウェブアプリ/financial anarlysis automation v2/app.py"],
+      "port": 5050
+    }
+  ]
+}
