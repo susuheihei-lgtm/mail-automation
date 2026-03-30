@@ -33,7 +33,7 @@ jobs:
 
       - name: Upload token
         if: always()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: token-pickle
           path: token.pickle
